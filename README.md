@@ -32,6 +32,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### Create Wireframes
 
-Designed a basic wireframe using a free tool [draw.io](draw.io)
+Designed a basic wireframe using a free tool [draw.io](https://app.diagrams.net/)
 
-<img src="\images\Wireframe.png" align="left" height="100px" width="100px" >
+<img src="https://github.com/Tushar9721/covid-19-tracker/blob/master/images/Wireframe.png" align="left" height="100px" width="100px" >
