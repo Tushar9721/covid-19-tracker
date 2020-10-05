@@ -34,4 +34,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Designed a basic wireframe using a free tool [draw.io](https://app.diagrams.net/)
 
-<img src="https://github.com/Tushar9721/covid-19-tracker/blob/master/images/Wireframe.png" align="left" height="300px" width="300px" >
+<img src="https://github.com/Tushar9721/covid-19-tracker/blob/master/images/Wireframe.png" align="left" height="300px" width="500px" >
