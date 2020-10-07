@@ -118,3 +118,6 @@ npm i leaflet
 Styling is done with the help of Material UI
 
 ## Final Screen Shot of the application
+
+This the final Screenshot of the application
+<img src="https://github.com/Tushar9721/covid-19-tracker/blob/master/images/final.PNG" height="300px" width="500px" />
