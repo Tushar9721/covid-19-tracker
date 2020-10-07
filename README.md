@@ -104,13 +104,11 @@ Creating a map in with the help of (react-leaflet)[https://react-leaflet.js.org/
 >Note: To install open terminal and use the given command
 ```
 npm i react-leaflet
-
 ```
 And 
 
 ```
 npm i leaflet
-
 ```
 
 ### Styling
