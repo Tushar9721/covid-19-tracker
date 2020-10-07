@@ -90,4 +90,31 @@ A table is built to show the COVID-19 cases of Every country. The first country 
 
 ### create a chart
 
-Using 3-rd party [charts]() to implement the chart, Line graph is implemented
+Using 3-rd party [charts](https://github.com/jerairrest/react-chartjs-2) to implement the chart, Line graph is implemented
+
+>Note: To install open terminal and use the given command
+```
+npm install --save react-chartjs-2 chart.js
+```
+
+### create a Map
+
+Creating a map in with the help of (react-leaflet)[https://react-leaflet.js.org/]
+
+>Note: To install open terminal and use the given command
+```
+npm i react-leaflet
+
+```
+And 
+
+```
+npm i leaflet
+
+```
+
+### Styling
+
+Styling is done with the help of Material UI
+
+## Final Screen Shot of the application
